@@ -12,7 +12,7 @@
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb_image_write.h"
 
-int thread_count = 12;
+int thread_count = 8;
 long partition;
 pthread_mutex_t lock;
 

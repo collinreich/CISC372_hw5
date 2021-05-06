@@ -1,0 +1,9 @@
+Script started on 2021-05-06 17:19:26-04:00
+]0;creich@br012:~/CISC372/CISC372_hw5[creich@r001 CISC372_hw5]$ ./image_omp pic1.jpg edge
+Took 7 seconds
+]0;creich@br012:~/CISC372/CISC372_hw5[creich@r001 CISC372_hw5]$ ./image_omp pic1.jpg edge[C[1P[1P[1P[1@p[1@t[1@h[1@r[1@e[1@a[1@d[1@s
+Took 10 seconds
+]0;creich@br012:~/CISC372/CISC372_hw5[creich@r001 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 17:20:22-04:00
